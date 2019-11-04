@@ -1,0 +1,4 @@
+routertips.video.qq.com
+dp3.qq.com
+node.video.qq.com
+vi.l.qq.com
